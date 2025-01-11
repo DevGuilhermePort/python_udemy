@@ -1,2 +1,4 @@
-# python_udemy
- Repositório das minhas anotações e práticas das aulas de Python-3 da Udemy, com o professor Luís Otavio Miranda
+# Curso de Python 3 do básico ao avançado - Com projetos reais.
+---
+- Todas as práticas a anotações do curso do Prof. *Luiz Otávio Miranda*.
+>   Início: **Dia 11.1.2025**
