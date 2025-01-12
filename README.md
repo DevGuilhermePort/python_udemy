@@ -3,4 +3,3 @@
 - Todas as práticas a anotações do curso do Prof. *Luiz Otávio Miranda*.
 >   Início: **11.1.2025**
 ---
-[[aula1.py]]: Primeira aula.
