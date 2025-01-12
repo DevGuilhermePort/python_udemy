@@ -7,3 +7,4 @@
  2. aula2.py: Aprendendo a usar a função `print()`.
  3. aula3.py: Entendendo **string's** e *caracteres de escape*.
  4. aula4.py: Entendo sobre **int** e **float**, e aprendendo a usar a class *type()*
+ 5. 
