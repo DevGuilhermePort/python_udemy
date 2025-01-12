@@ -8,3 +8,5 @@
  3. [aula3.py](https://github.com/DevGuilhermePort/python_udemy/blob/main/aula3.py): Entendendo **string's** e *caracteres de escape*.
  4. [aula4.py](https://github.com/DevGuilhermePort/python_udemy/blob/main/aula4.py): Entendendo sobre **int** e **float**, e aprendendo a usar a class `type()`.
  5. [aula5.py](https://github.com/DevGuilhermePort/python_udemy/blob/main/aula5.py): Entendendo sobre valores **booleanos** e *operadores lógicos*.
+ 6. [aula6.py](https://github.com/DevGuilhermePort/python_udemy/blob/main/aula6.py): Aprendendo a fazer Typecasting.
+ 
